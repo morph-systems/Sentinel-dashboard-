@@ -1,1 +1,8 @@
-
+streamlit
+numpy
+pandas
+matplotlib
+astropy
+beautifulsoup4
+watchdog
+requests
