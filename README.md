@@ -1,1 +1,1 @@
-# Sentienel-dashboard
+# Sentinel-dashboard
